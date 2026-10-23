@@ -1,0 +1,11 @@
+country_code,country_code_iso3,country_name,region
+DE,DEU,Germany,Europe
+FR,FRA,France,Europe
+GB,GBR,United Kingdom,Europe
+NL,NLD,Netherlands,Europe
+ES,ESP,Spain,Europe
+IT,ITA,Italy,Europe
+US,USA,United States,North America
+CA,CAN,Canada,North America
+AU,AUS,Australia,Oceania
+IN,IND,India,Asia
